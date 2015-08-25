@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"ok");
+    
+    NSLog(@"fdsa");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
